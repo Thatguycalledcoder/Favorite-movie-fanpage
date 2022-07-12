@@ -1,0 +1,31 @@
+body {
+    background-color:darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.links {
+    margin: 48px 180px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.link:first-child {
+    color: red;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.home-image {
+    width: 750px;
+    height: auto;
+    border: 4px solid #FFFFFF;
+    border-radius: 56px;
+}
+.about-text {
+    margin-inline: 180px;
+    color: white;
+}
