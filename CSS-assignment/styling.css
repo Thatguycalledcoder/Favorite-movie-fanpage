@@ -31,10 +31,13 @@ ul {
 }
 
 /* Header section */
+#header {
+    padding-inline: 160px;
+}
 .heading {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .logo {
     color: #F9FAF8;
@@ -61,13 +64,12 @@ ul {
 #hero {
     width: 100%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     padding-top: 50px;
     padding-bottom: 90px;
 }
 .hero-desc {
     width: 29vw;
-    margin-left: 24px;
 }
 .hero-main {
     color: #F9FAF8;
@@ -87,7 +89,7 @@ ul {
     border: none;
 }
 .hero-img-section {
-    width: 470px;
+    width: 500px;
 }
 .hero-img {
     width: 100%;
@@ -131,6 +133,12 @@ ul {
     text-align: center;
     font-size: 18px;
     width: 150px;
+}
+.subtext-link {
+    color: inherit;
+}
+.subtext-link:hover {
+    font-weight: bold;
 }
 
 /* Quote section */
