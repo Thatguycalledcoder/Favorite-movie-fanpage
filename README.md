@@ -1,4 +1,4 @@
-# CSS-assignment
-CSS assignment for Frontend Development Course
+# Favorite movie fanpage
+A fanpage for my favorite movie- Greenbook
 
-Link to assignment presentation: https://thatguycalledcoder.github.io/CSS-assignment/
+Link to assignment presentation: https://thatguycalledcoder.github.io/Favorite-movie-fanpage/
